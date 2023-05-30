@@ -7,7 +7,7 @@ It was made to work on Linux, but I'm sure you could run it from source using Ca
 # Instructions
   -Download the latest version under "releases"  
   -Put the file under your /home directory.  
-  -Execute it with "./bad_advice_rs"  
+  -Execute it with ```./bad_advice_rs```  
 
 However, if you want to execute it from whatever directory you want, you can:  
 
