@@ -1,7 +1,7 @@
 use rand::Rng;
 
 fn main() {
-    let mut _phrase_rng = rand::thread_rng().gen_range(1..=30);
+    let mut _phrase_rng = rand::thread_rng().gen_range(1..=35);
 
     match _phrase_rng {
         1 => println!("When hunting bears, you should try using pancakes, they're very useful!"),
